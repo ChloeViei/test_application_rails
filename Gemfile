@@ -49,7 +49,7 @@ group :test do
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '>= 2.15'
   gem 'selenium-webdriver'
-  gem 'rubyzip', '~> 1.2.2'
+  gem 'rubyzip', '~> 1.3.0'
   # Easy installation and use of chromedriver to run system tests with Chrome
   gem 'chromedriver-helper'
   # Use sqlite3 as the database for Active Record
