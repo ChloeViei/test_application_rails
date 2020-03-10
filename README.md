@@ -27,4 +27,5 @@ Things you may want to cover:
 ##Commande :
 
 `rails g scaffold burger name price:float image nutriscore`
+
 `rails db:migrate`
